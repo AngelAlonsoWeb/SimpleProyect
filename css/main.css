@@ -1,0 +1,14 @@
+/* VARIABLES */
+
+:root {
+  /* Font */
+  --font: "Open Sans";
+}
+
+/* GLOBALES */
+
+body {
+  font-family: var(--font);
+}
+
+/* HEADER */
