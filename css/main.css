@@ -1,8 +1,26 @@
 /* VARIABLES */
-
 :root {
   /* Font */
   --font: "Open Sans";
+  /* COLORS */
+  --color-primary: #1e1e1e;
+  --color-surface: #2c2c2c;
+  --color-accent-alt: #bfb2ff;
+  --color-text: #f4f4f5;
+  --color-text-secondary: #9e9e9e;
+  --color-accent: #0067ff;
+  --color-error: #ff4c6a;
+  --color-success: #22c55e;
+
+  /* BASIC COLORS */
+  --color-white: #f3f4f6;
+  --color-black: #1a1c1e;
+  --color-gray: #27272a;
+  --color-red-basic: #b91c1c;
+  --color-orange-basic: #f45c3b;
+  --color-blue-basic: #2563eb;
+  --color-green-basic: #15803d;
+  --color-yellow-basic: #ffdc81;
 }
 
 /* GLOBALES */
